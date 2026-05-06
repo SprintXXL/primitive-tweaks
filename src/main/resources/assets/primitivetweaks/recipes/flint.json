@@ -1,13 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "GGG"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:gravel"},
+    {"item": "minecraft:gravel"},
+    {"item": "minecraft:gravel"}
   ],
-  "key": {
-    "G": {
-      "item": "minecraft:gravel"
-    }
-  },
   "result": {
     "item": "minecraft:flint"
   }
