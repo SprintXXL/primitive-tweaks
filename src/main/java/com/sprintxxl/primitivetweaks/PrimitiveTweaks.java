@@ -11,7 +11,7 @@ public class PrimitiveTweaks
 {
     public static final String MODID = "primitivetweaks";
     public static final String NAME = "Primitive Tweaks";
-    public static final String VERSION = "0.1.0";
+    public static final String VERSION = "0.4.0";
 
     private static Logger logger;
 
