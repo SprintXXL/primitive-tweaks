@@ -1,6 +1,5 @@
-package com.sprintxxl.primitivetweaks.events;
+package com.SprintXXL.primitivetweaks.events;
 
-import com.sprintxxl.primitivetweaks.PrimitiveTweaks;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
@@ -8,7 +7,7 @@ import net.minecraftforge.event.world.BlockEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-@Mod.EventBusSubscriber(modid = PrimitiveTweaks.MODID)
+@Mod.EventBusSubscriber
 public class BlockDropEvents {
 
     @SubscribeEvent
