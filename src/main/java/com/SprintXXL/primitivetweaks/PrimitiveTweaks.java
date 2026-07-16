@@ -7,10 +7,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 import static com.SprintXXL.primitivetweaks.Reference.*;
 
-@Mod(
-        modid = MODID,
-        name = NAME,
-        version = VERSION)
+@Mod(modid = MODID, name = NAME, version = VERSION)
 public class PrimitiveTweaks {
 
     @EventHandler
